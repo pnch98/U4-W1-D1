@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\bin\Debug\test2.exe.config
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\bin\Debug\test2.exe
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\bin\Debug\test2.pdb
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\obj\Debug\test2.exe
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\test2\test2\obj\Debug\test2.pdb
